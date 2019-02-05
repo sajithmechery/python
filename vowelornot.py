@@ -4,3 +4,4 @@ if(s in ch):
   print("is a vowel")
   else:
     print("is a consonant")
+   
